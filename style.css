@@ -4,21 +4,21 @@
 
 @media (max-width: 600px) {
     h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     button {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         padding: 15px 25px;
     }
 
     input {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         padding: 12px;
     }
 
     #carta {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         padding: 25px;
     }
 }
