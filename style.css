@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+@media (max-width: 600px) {
+    body {
+        zoom: 1.7;
+    }
+}
 
 body {
     display: flex;
