@@ -3,12 +3,6 @@
 }
 
 
-@media (max-width: 600px) {
-    body {
-        zoom: 1.7;
-    }
-}
-
 body {
     display: flex;
     flex-direction: column;
