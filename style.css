@@ -2,27 +2,12 @@
     box-sizing: border-box;
 }
 
+
 @media (max-width: 600px) {
-    h1 {
-        font-size: 1.5rem;
-    }
-
-    button {
-        font-size: 1.1rem;
-        padding: 15px 25px;
-    }
-
-    input {
-        font-size: 1.1rem;
-        padding: 12px;
-    }
-
-    #carta {
-        font-size: 1.1rem;
-        padding: 25px;
+    body {
+        zoom: 1.7;
     }
 }
-
 
 body {
     display: flex;
